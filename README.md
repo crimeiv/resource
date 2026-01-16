@@ -14,6 +14,7 @@ Resource description goes here.
 - Clone the resource and place it either in the `[crime]` or `resources` directory.
 ```sh
 git clone https://github.com/crimeiv/resource.git crime-resource
+rm -rf crime-resource/.git
 ```
 ###
 - Include it in the resources tag in your `server.xml`.
