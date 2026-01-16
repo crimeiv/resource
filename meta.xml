@@ -1,0 +1,9 @@
+<meta>
+	<info author="CRIME" />
+
+    <dependency src="crime-mysql" />
+    <dependency src="crime-example" />
+
+	<script src="src/client/main.js" type="client" language="javascript" />
+	<script src="src/server/main.js" type="server" language="javascript" />
+</meta>
